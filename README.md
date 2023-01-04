@@ -10,3 +10,6 @@
 
 6.lépés: létrehoztam a git branch parancsal egy console ágát, majd ebben az ágban módosítottam a app.js fájt, és ezt követően git commit -m parancsal rögzítettem a változást.
 
+7.lépes : a css fájt is módosítottam ,és git commit -m parancsal rögzítettem.
+
+8.lépes:  A távoli gyűjteménybe feltölté
