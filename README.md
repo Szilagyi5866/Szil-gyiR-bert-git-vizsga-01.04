@@ -12,4 +12,4 @@
 
 7.lépes : a css fájt is módosítottam ,és git commit -m parancsal rögzítettem.
 
-8.lépes:  A távoli gyűjteménybe feltölté
+8.lépes:  A távoli gyűjteménybe feltöltés 
